@@ -1,0 +1,27 @@
+{
+  "name": "trilha_discover",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas de usuários direcionadas ao dono da página. Projeto desenvolvido na semana NLW Rocketseat na missão discover",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon ." 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaubermlira/NLW06-Discover_Rocket.Q.git"
+  },
+  "keywords": [],
+  "author": "Glauber Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glaubermlira/NLW06-Discover_Rocket.Q/issues"
+  },
+  "homepage": "https://github.com/glaubermlira/NLW06-Discover_Rocket.Q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
+
+
